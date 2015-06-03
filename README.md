@@ -9,3 +9,6 @@ http://www.libusb.org/
 
 
 test
+
+usb drivers:
+http://www.thesycon.de/eng/usb_cdcacm.shtml#features
